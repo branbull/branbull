@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @branbull
 - 👀 I’m interested in rock climbing, cycling, economics, public transportation
-- 🌱 I’m currently building on my Python skills
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently building on my spatial modeling skills
 - 📫 How to reach me: bat signal
 
 <!---
